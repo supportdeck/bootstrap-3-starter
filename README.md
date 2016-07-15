@@ -1,4 +1,4 @@
-# bootstrap-3-starter
+# Bootstrap 3 Starter
 
 Starter Package for Bootstrap 3. 
 
